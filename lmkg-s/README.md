@@ -14,7 +14,7 @@ conda activate lmkg-s
 # Run commands below inside this directory.
 ```
 
-##Datasets and Queries
+## Datasets and Queries
 To run the model for the SWDF dataset, download everythig from the folder **lmkg-s_data/** from the [dropbox link](https://www.dropbox.com/sh/709rxcpyl631kyk/AAAfbEXXnjQvacrgOPGbg87oa?dl=0) and place inside the folder **final_datasets**.
 The queries for the swdf star 2 and chain 2 datasets are located in the same folder and start with the prefix _eval__.  
 
