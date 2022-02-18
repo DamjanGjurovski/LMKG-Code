@@ -1,4 +1,4 @@
-# LMKG
+# LMKG: Learned Models for Cardinality Estimation in Knowledge Graphs
 
 A code repository for the paper: _LMKG: Learned Models for Cardinality Estimation in Knowledge Graphs_.
 
