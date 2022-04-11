@@ -12,12 +12,14 @@ To download the data and run the models, follow the instructions in the README.m
 If you compare with this code, or you use it in your research, please cite:
 
 ```
-@inproceedings{lmkg-edbt-2022,    
-        author = {Angjela Davitkova and Damjan Gjurovski and Sebastian Michel},    
-        title = {{LMKG}: Learned Models for Cardinality Estimation in Knowledge Graphs},    
-        booktitle = {{EDBT}},  
-        pages={},
-        publisher = {OpenProceedings.org},  
-        year = {2022}    
-    }
+@inproceedings{DBLP:conf/edbt/DavitkovaG022,
+  author    = {Angjela Davitkova and
+               Damjan Gjurovski and
+               Sebastian Michel},
+  title     = {{LMKG:} Learned Models for Cardinality Estimation in Knowledge Graphs},
+  booktitle = {{EDBT}},
+  pages     = {2:169--2:182},
+  publisher = {OpenProceedings.org},
+  year      = {2022}
+}
 ```   
